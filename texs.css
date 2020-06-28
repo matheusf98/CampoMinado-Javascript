@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+td{
+    background: rgb(156, 156, 156);
+    text-align: center;
+    vertical-align: center;
+    border: solid 1px;
+}
+
+input{
+    width: 100px;
+}
+
+.invisible {
+    visibility: hidden;
+} 
+
+#botao {
+    text-align: center;
+}
+
+#campo{
+    background-color: black;
+    margin-top: 25px;
+    height: 400px;
+    width: 400px;
+    margin-left: 480px;
+    border: solid 1px;
+}
+
+#Linhas{
+    margin-left: 10px;
+}
+
+#Colunas{
+    margin-left: 10px;
+}
+
+#Bombas{
+    margin-left: 10px;
+}
+
+.Jogar{
+    margin-left: 10px;
+}
